@@ -27,7 +27,7 @@ byte BootGreetingEffect::col_;
 byte BootGreetingEffect::key_row = 255;
 byte BootGreetingEffect::key_col = 255;
 Key BootGreetingEffect::search_key = Key_LEDEffectNext;
-uint8_t BootGreetingEffect::hue = 170;
+uint8_t BootGreetingEffect::hue = 230;
 uint16_t BootGreetingEffect::start_time = 0;
 uint16_t BootGreetingEffect::timeout = 9200;
 
